@@ -7,10 +7,6 @@ package actividad;
 
 import java.util.Scanner;
 
-/**
- *
- * @author julia
- */
 public class Actividad {
 
     /**
