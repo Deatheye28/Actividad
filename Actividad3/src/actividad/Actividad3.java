@@ -7,10 +7,6 @@ package actividad;
 
 import arbol.Arbol;
 
-/**
- *
- * @author julia
- */
 public class Actividad3 {
      public static void main(String[] args) {
          Arbol arbol = new Arbol();
