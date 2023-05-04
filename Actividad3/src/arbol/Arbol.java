@@ -8,10 +8,6 @@ package arbol;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author julia
- */
 public class Arbol {
      List<Integer> listaArbol = new ArrayList<>();
     
